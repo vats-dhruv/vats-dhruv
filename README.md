@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript , React**
 
-- 👨‍💻 All of my projects are available at [https://vats-dhruv.github.io/Code-PlayGround/](https://vats-dhruv.github.io/Code-PlayGround/)
+- 👨‍💻 All of my projects are available at https://twitter.com/dhruvVats05
+
 
 - 📫 How to reach me **ds9994180@gmail.com**
 
